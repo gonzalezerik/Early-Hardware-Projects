@@ -48,7 +48,7 @@ An attempt at building a working Z80-based computer on a breadboard and getting 
 
 This was the last saved state of the project. The LCD backlight was extremely bright in the original photo — the image above has been processed to make the "Hello World" text on the display visible. The red LEDs on the breadboard are address/data bus indicators.
 
-Getting the Z80 to initialize, clock, and write to an LCD from scratch on a breadboard involves a lot of wire and a lot of patience. The project didn't go much further than this, but "Hello World" on a bare Z80 is a milestone worth saving.
+Getting the Z80 to initialize, clock, and write to an LCD from scratch on a breadboard involves a lot of wire and a lot of patience. The project didn't go much further than this, as unfortunately somewhere along the way I ended up frying the z80.
 
 ---
 
@@ -63,4 +63,4 @@ My first real microsoldering job — installing a modchip on a Nintendo Switch. 
 | ![CPU ribbon](switch/cpuribbon.jpg) | Near the Tegra X1 CPU (labeled OLED V6 board), SP1/SP2 pads |
 | ![C point](switch/cpoint.jpg) | Another fine-pitch solder connection point on the board |
 
-Microsoldering at this scale (sub-millimeter pads, using flux and fine gauge wire) is a completely different skill from normal through-hole or even SMD soldering. This was the project that made it click.
+Microsoldering is a completely different skill from normal through-hole or even SMD soldering.
